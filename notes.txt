@@ -1,0 +1,9 @@
+create images folder, index.html, style.css and main.js (1:00)
+
+analyze what font will imported from gogle font (1:55)
+
+add basic color to css (3.50)
+    jika kita set variable di dalam :root maka variable itu bisa diakses dimana saja
+    manfaat nya nanti kalo kita mau ganti tinggal ganti yang di root aja gausah di yg lain
+
+    
