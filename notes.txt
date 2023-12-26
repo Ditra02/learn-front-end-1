@@ -6,4 +6,4 @@ add basic color to css (3.50)
     jika kita set variable di dalam :root maka variable itu bisa diakses dimana saja
     manfaat nya nanti kalo kita mau ganti tinggal ganti yang di root aja gausah di yg lain
 
-    
+export images (6.13)
